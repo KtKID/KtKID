@@ -1,26 +1,13 @@
 # KtKID
 
-AI coding agent infrastructure and developer workflow tooling.
+I am a game developer and an Agent developer.
 
-I build local-first tools around agentic coding, structured engineering workflows, automation, and developer observability.
+My long-term focus is game development, interaction design, automation tools, and AI Agent engineering. I am especially interested in the connection between Agent technology and game creation: using Agents to support development workflows, content production, gameplay validation, design critique, and developer tooling.
 
-## Featured Projects
+Right now, I mainly work on three areas:
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| [kongming-agent](https://github.com/KtKID/kongming-agent) | Host-independent agent framework with core runtime, CLI, tool calls, approvals, and persistent sessions. | Python |
-| [x-dev-pipeline](https://github.com/KtKID/x-dev-pipeline) | Development workflow plugin for AI coding agents with req, dev, review, fix, and quick-dev loops. | PowerShell |
-| [ClawDeck](https://github.com/KtKID/ClawDeck) | Focused interface for OpenClaw task state, progress tracking, and quick actions. | JavaScript |
-| [game-critic](https://github.com/KtKID/game-critic) | Agent plugin for game critique using public design philosophies from influential game designers. | Agent tooling |
+- Building Agent engineering infrastructure for real development workflows
+- Designing AI workflow tools that help developers collaborate more effectively
+- Exploring how Agents can support game development, game design, and creative production
 
-## Focus
-
-- AI coding agents
-- Developer workflow systems
-- Local automation
-- Agent UI and observability
-
-## GitHub Activity
-
-![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KtKID&theme=github-compact&hide_border=true&area=true)
-
+I believe future game development will involve more hybrid workflows between human creators and Agent toolchains. My projects continue to evolve around this direction.
