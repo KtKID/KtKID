@@ -1,13 +1,17 @@
-# KtKID
+# Hi, I'm KtKID
 
-I am a game developer and an Agent developer.
+I'm a game developer, and I'm also building agent tools and a personal Agent OS.
 
-My long-term focus is game development, interaction design, automation tools, and AI Agent engineering. I am especially interested in the connection between Agent technology and game creation: using Agents to support development workflows, content production, gameplay validation, design critique, and developer tooling.
+I explore three areas in parallel:
 
-Right now, I mainly work on three areas:
+- **Game Development** — Creating engaging gameplay and interactions, and exploring how AI can contribute to game development, design, and content creation.
+- **Agent Engineering** — Building agents for real tasks, with a focus on tool use, task execution, multi-agent collaboration, and development workflows.
+- **Personal Agent OS** — Connecting personal knowledge, work history, everyday activity, and tools so agents can build a deeper understanding of my context. This also means staying aware of system health and information security, and proactively alerting me to anomalies, risks, and changes that need attention.
 
-- Building Agent engineering infrastructure for real development workflows
-- Designing AI workflow tools that help developers collaborate more effectively
-- Exploring how Agents can support game development, game design, and creative production
+A question increasingly shapes my work: **How can agents understand me better over time and become more capable of helping me get things done?**
 
-I believe future game development will involve more hybrid workflows between human creators and Agent toolchains. My projects continue to evolve around this direction.
+My approach is to turn experiences, decisions, project progress, and task outcomes into context agents can use. I want them to understand what I'm working on, why it matters, and what I've already tried—and combine that understanding with the current environment and system state to take useful action, spot problems, and alert me when needed.
+
+Games are an ongoing creative pursuit. Agent engineering is where I experiment with human–AI collaboration. A personal Agent OS is my exploration of what that collaboration can become over time. These directions grow alongside one another and inform each other through practical projects.
+
+Here you'll find the games I make, the tools I build, and my experiments in working with agents.
